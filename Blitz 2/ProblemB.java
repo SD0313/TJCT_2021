@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class ProblemB2 {
+public class ProblemB {
     static int lowerIndex(int arr[], int n, int x)
     {
         int l = 0, h = n - 1;
